@@ -1,0 +1,15 @@
+﻿  project1.cpp
+  project2.cpp
+  project3.cpp
+  project4.cpp
+  project5.cpp
+  project6.cpp
+  project7.cpp
+  Создание кода...
+project2.obj : error LNK2005: _main уже определен в project1.obj
+project3.obj : error LNK2005: _main уже определен в project1.obj
+project4.obj : error LNK2005: _main уже определен в project1.obj
+project5.obj : error LNK2005: _main уже определен в project1.obj
+project6.obj : error LNK2005: _main уже определен в project1.obj
+project7.obj : error LNK2005: _main уже определен в project1.obj
+C:\Users\dadaya\Desktop\2023-cpp-autumn\2023.09.15-homework-1-ИСПРАВЛЕННОЕ\project1\Debug\project1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
