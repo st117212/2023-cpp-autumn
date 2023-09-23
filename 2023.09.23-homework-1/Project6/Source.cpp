@@ -6,5 +6,5 @@ int main(int argc, char* argv[]) {
     std::cin >> a;
     std::cin >> b;
     std::cout << (a * (a / b) + b * (b / a)) / (b / a + a / b) << std::endl;
-    EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 }

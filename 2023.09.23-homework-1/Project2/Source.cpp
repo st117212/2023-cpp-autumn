@@ -13,5 +13,5 @@ int main(int argc, char* argv[])
     n = (abs((an - 1) / d) + 1);
     sum = ((an + 1) * n) / 2;
     std::cout << sum << std::endl;
-    EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 }

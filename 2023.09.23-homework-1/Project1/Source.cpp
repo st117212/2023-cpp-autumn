@@ -9,5 +9,5 @@ int main(int argc, char* arvg[]) {
 	int c = a + b;
 
 	std::cout << c << std::endl;
-	EXIT_SUCCESS;
+	return EXIT_SUCCESS;
 }

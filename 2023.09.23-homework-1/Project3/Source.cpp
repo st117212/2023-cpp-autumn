@@ -7,5 +7,5 @@ int main(int argc, char* argv[])
     b = a / 10;
     a = 100 * b * (b + 1) + 25;
     std::cout << a;
-    EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 }
