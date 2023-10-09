@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main(int argc, char* argv[]) {
+int main(int argc, char* argv[]) 
+{
     int n = 0;
     int f = 0;
     int f0 = 0;
@@ -8,12 +9,15 @@ int main(int argc, char* argv[]) {
 
     std::cin >> n;
 
-    if (n <= 2) {
+    if (n <= 2) 
+    {
         std::cout << f1;
     }
 
-    if (n > 2) {
-        for (int i = 2; i < n; ++i) {
+    if (n > 2) 
+    {
+        for (int i = 2; i < n; ++i) 
+        {
             f = f1 + f0;
             f0 = f1;
             f1 = f;
