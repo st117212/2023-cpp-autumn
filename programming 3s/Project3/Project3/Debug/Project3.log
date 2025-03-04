@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\dadaya\Desktop\programming 3s\Project3\Project3\Source.cpp(90,17): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\dadaya\Desktop\programming 3s\Project3\Project3\Source.cpp(90,43): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\dadaya\Desktop\programming 3s\Project3\Project3\Source.cpp(100,17): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\dadaya\Desktop\programming 3s\Project3\Project3\Source.cpp(100,43): warning C4018: >=: несоответствие типов со знаком и без знака
+  Project3.vcxproj -> C:\Users\dadaya\Desktop\programming 3s\Project3\Debug\Project3.exe
